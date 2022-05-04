@@ -36,3 +36,18 @@ ROM_PATH = game/pokecrystal.gbc
 ```sh
 $ yarn dev
 ```
+
+## Command
+
+スタンプ | 入力
+-- | --
+  `⬆️` | `UP`
+  `⬇️` | `DOWN`
+  `⬅️` | `LEFT`
+  `➡️` | `RIGHT`
+  `🅰️` | `A`
+  `🅱` | `B`
+  `▶️` | `START`
+  `👆` | `SELECT`
+  `🔄` | `🔄`
+
